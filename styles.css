@@ -1,0 +1,19 @@
+#container{
+    background-color: aqua;
+    padding: 3rem;
+    margin: 1rem;
+}
+.seccion{
+    background-color: gray; opacity: 30;
+    padding: 2rem;
+}
+.parrafo{
+    background-color: lime;
+    color: fuchsia;
+
+    border: 0.2px solid black
+}
+.image{
+    background-color: black;
+    padding: 1 rem;
+}
